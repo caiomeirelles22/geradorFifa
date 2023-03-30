@@ -27,7 +27,7 @@ header{
 }
 
 .logoFifa{
-    background-image: url(/fifa.png);
+    background-image: url(fifa.png);
     width: 50vw;
     height: 40vh;
     background-size: cover;
